@@ -1,0 +1,5 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ‡Ãë8¯É³Ÿ¾-
+9squid:S3878"Remove this array creation.(Æ‡Ãë8Þã´Ÿ¾-
+dsquid:S3878"ADisambiguate this call by either casting as "Class" or "Class[]".(¸Ñî—úÿÿÿÿ8Þã´Ÿ¾-
